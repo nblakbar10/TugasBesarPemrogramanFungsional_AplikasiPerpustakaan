@@ -1,0 +1,15 @@
+
+                    *********************  SIBUDI  **********************
+                    **** Sistem Peminjaman Buku Perpustakaan Digital ****
+                    **************** Struk Bukti Pinjam *****************
+                
+			Tanggal :  2021-01-04 - 01 - 2021
+			Nama Peminjam Buku :  Gaple
+			NIM :  11181055
+			Judul Buku :  Cheat
+			Tanggal Peminjaman :  2021-01-04 - 01 - 2021
+			Lama Pinjam :  2 Hari
+
+                    ***Terima Kasih Telah Meminjam Buku Ditempat Kami***
+                    ***Struk Harap Dibawa pada saat pengembalian Buku***
+                    
